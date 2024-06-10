@@ -1,0 +1,13 @@
+- Acessar a planilha
+- Copiar informação de um campo e colar no seu campo correspondente
+- Repetir esses passos para outros campos até preencher toda os campos da página
+- Clicar em próxima
+- Repetir os mesmos passos e ir para a próxima página (página 3)
+- Repetir os mesmos passos e finalizar o cadastro daquele produto clicando em concluir
+- Clicar em ok para finalizar o processo
+- Clicar no ok mais uma vez na mensagem de confirmação de salvamento de banco de dados
+- Clicar em "adicionar mais um" e repetir o processo até finalizar toda a planilha" 
+
+
+Site do cadastro:
+https://cadastro-produtos-devaprender.netlify.app/
